@@ -17,13 +17,13 @@
 
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-snapshots/</url>
+		    <id>BashanexusRepo</id>
+		    <url>http://18.212.210.133:8081/repository/basha-repository-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
-		    <url>http://54.236.16.181:8081/repository/batch12-release/</url>
+		    <id>BhainexusRepo</id>
+		    <url>http://18.212.210.133:8081/repository/basha-repository//</url>
 		</repository>
   	</distributionManagement>
 	
